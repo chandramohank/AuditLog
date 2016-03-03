@@ -1,0 +1,9 @@
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\AuditLog.dll.config
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\AuditLog.dll
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\AuditLog.pdb
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\EntityFramework.dll
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\EntityFramework.xml
+D:\Projects\Backup\AzureQueue\AuditLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Backup\AzureQueue\AuditLog\obj\Debug\AuditLog.dll
+D:\Projects\Backup\AzureQueue\AuditLog\obj\Debug\AuditLog.pdb
